@@ -16,8 +16,8 @@ o collaborate on ...
 - ⚡ Fun fact: ...
 -->
 
+![Screen Recording 2025-03-04 232307](https://github.com/user-attachments/assets/a735bb8c-4138-4997-8ee6-0af239337ec1)
 
-https://github.com/user-attachments/assets/e7f52ee1-3cdd-4971-a9cf-06365271ac30
 
 
 
