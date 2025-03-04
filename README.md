@@ -15,8 +15,8 @@ o collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Screenshot 2025-03-04 231946](https://github.com/user-attachments/assets/b085a644-c626-4192-b06d-4b8a5a908c90)
 
-![Screenshot 2025-03-04 224452](https://github.com/user-attachments/assets/467a09fb-596a-4d23-b44d-8de23afcbd19)
 
 
 
