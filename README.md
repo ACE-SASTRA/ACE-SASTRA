@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<marquee>Welcome to ACE-SASTRA</marquee>
 <!--
 **ACE-SASTRA/ACE-SASTRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -98,5 +98,5 @@ Discover the dynamic and diverse clusters under ACE. Each cluster brings unique 
 
 
 
-
+<footer>More News to Come Stay Tuned!!!!</footer>
 
